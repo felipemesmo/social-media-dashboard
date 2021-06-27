@@ -4,4 +4,4 @@
 
 ## Demonstração
 
-Você pode conferir o resultado do teste acessando o seguinte a URL: https://social-media-dashboard-sable-seven.vercel.app/
+Você pode conferir o resultado no endereço: https://social-media-dashboard-sable-seven.vercel.app/
